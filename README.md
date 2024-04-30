@@ -1,4 +1,4 @@
-### How to Run Code
+# How to Run Code
 
 ## Build a dataset
 1. Put the sharp images in a directory
@@ -27,3 +27,5 @@ You will now have a directory of images that contain the sharp image appended to
 2. Make sure this aligns with the number of blocks in the saved model you test or else you will get an error
 
 Original README from the paper can be found in the DeblurGAN directory
+
+## LINK TO GITHUB: https://github.com/masonb13/CSE398Project/tree/main
